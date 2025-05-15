@@ -15,5 +15,5 @@ fraud-env/
 # Ignore dataset/model files
 *.csv
 *.h5
-#*.pkl
+*.pkl
 *.zip
