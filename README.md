@@ -1,6 +1,13 @@
 #  AI-Powered Credit Card Fraud Detection
 An intelligent fraud detection system that analyzes transaction data and identifies fraudulent activities using a Random Forest Classifier. Built with Python and scikit-learn.
 
+##  Features
+
+- ⚡ Fast and efficient fraud detection using machine learning
+- 📈 Visualizations for ROC Curve, Confusion Matrix, and more
+- 📊 Saves flagged fraud transactions to a CSV file
+- 🧠 Trained on real-world anonymized credit card dataset
+
 ## Dataset
 The model uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
 
